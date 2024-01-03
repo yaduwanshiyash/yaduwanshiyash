@@ -14,9 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yash yaduwanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash yaduwanshi" height="30" width="40" /></a>
-<a href="https://fb.com/yash yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yash yadav" height="30" width="40" /></a>
-<a href="https://instagram.com/_.mr._.yash._.yadav._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.mr._.yash._.yadav._" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/yash yaduwanshi](https://www.linkedin.com/in/yash-yaduwanshi-210864279/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash yaduwanshi" height="30" width="40" /></a>
+<a href="[https://instagram.com/_.mr._.yash._.yadav._](https://instagram.com/_.mr._.yash._.yadav._?igshid=MzMyNGUyNmU2YQ==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.mr._.yash._.yadav._" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
