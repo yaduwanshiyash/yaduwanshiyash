@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm yash yadav</h1>
 <h3 align="center">A passionate web developer from India</h3>
+<img class="img3" src="[./images/web.jpg](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" alt="" srcset="">
 
 - 🔭 I’m currently working on [Improving cloud-based solutions and implementing microservices architecture.](https://www.thatsmycollege.com/)
 
