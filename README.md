@@ -68,7 +68,6 @@ Leveling up in **GLSL**, advanced **Three.js** techniques, and real-time systems
 * **Blob Mixture** — WebGL shaders & 3D motion (Three.js, GLSL)
 * **Show Hub / Social Media** — Full-stack social app (React, Express, MongoDB)
 
-(Links & screenshots available on request — I can add project cards to the README.)
 
 ---
 
