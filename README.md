@@ -76,7 +76,6 @@ Leveling up in **GLSL**, advanced **Three.js** techniques, and real-time systems
 
 <p>
   <a href="mailto:yaduwanshiyash11@gmail.com">✉️ Email</a> •
-  <a href="tel:+917470419477">📞 Phone</a> •
   <a href="https://www.linkedin.com/in/yash-yaduwanshi-210864279/">LinkedIn</a>
 </p>
 
